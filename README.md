@@ -1,4 +1,4 @@
-RaptorJS Optimizer
+RaptorJS Optimizer (For Resource Uglify)
 ==================
 
 The RaptorJS Optimizer is an extensible server-side resource bundler tool that can be be used to build optimized web pages by bundling, compiling, transforming and minifying web page dependencies. In addition, the RaptorJS Optimizer supports configurable bundles, Node.js-style require and asynchronous loading.
